@@ -5,3 +5,5 @@ Diving into the src folder reveals that the app is thoughtfully composed of reus
 Contexts like the CryptoContext and ThemeContext demonstrate the power of React's Context API to share data and functionality across components. The ColorContext allows components to change themes by toggling between light and dark mode. The CryptoContext handles the fetching of cryptocurrency data from a public API and storing it in the app's state.
 
 Overall, this project exhibits well-structured React code, good use of hooks and contexts, and a clean, minimalist user interface for tracking crypto prices. The developer's comments explain implementation decisions, making the code accessible for learning. While functionality is currently limited to listing prices, this solid foundation could support expanding the app's features in the future. The project is a promising example of using React to build a finance-related app.
+
+For the preview of the app: https://romantic-turing-f6ce49.netlify.app/
